@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24849765711",
+    "project_id": "kidsclub-8e32d",
+    "storage_bucket": "kidsclub-8e32d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24849765711:android:d0264fac552b114a09e13a",
+        "android_client_info": {
+          "package_name": "com.example.kids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24849765711-0786i841v7vf6l5aofdu1fecsu0l6l9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhLfu-a86kh9i9Eu4mpvmsZ60Xx-8Vn7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24849765711-0786i841v7vf6l5aofdu1fecsu0l6l9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

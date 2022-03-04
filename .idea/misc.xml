@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/drawable/button_text_color.xml" value="0.1" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/drawable/empty_background.xml" value="0.1015625" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/drawable/next_btn_shape.xml" value="0.3828125" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/drawable/round_back_green20.xml" value="0.1" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/drawable/round_back_white10.xml" value="0.3828125" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/drawable/round_back_white_stroke10.xml" value="0.3828125" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/drawable/time_out_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/drawable/timeout_btn_shape.xml" value="0.1015625" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_fevs.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_ffood.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_finish.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_first_std.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_fmaths.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_fq2_maths.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_fq2evs.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_fq2food.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_fq3_maths.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_fq3evs.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_fq3food.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_fq4evs.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_fstd.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jk_finish_alphabet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_alphabet.xml" value="0.33" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_alphabet_q.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_color.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_color_finish.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_finish_maths.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_maths.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_q2_alphabet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_q2_color.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_q2_maths.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_q2_vehicle.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_q3_alphabet.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_q3_color.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_q3_maths.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_q3_vehicle.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_q4_alphabet.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_q4_color.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_q4_maths.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_q4_vehicle.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkg_vehicle.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_jkgdashboard.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_junior_kg.xml" value="0.26811594202898553" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_login.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_register.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_s2clock.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_sclock.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_second_std.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_sernior_kg.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skg_bpart.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skg_english.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skg_finish_bpart.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skg_finish_english.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skg_finish_maths.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skg_maths.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skg_q2_bpart.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skg_q2_english.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skg_q2_maths.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skg_q2water.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skg_q3_bpart.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skg_q3_english.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skg_q3_maths.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skg_q3water.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skg_q4_bpart.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skg_q4_english.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skg_q4_maths.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skg_q4water.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_skgwater.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_smarathi.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_smaths.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_sq2_maths.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_sq2marathi.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_sq3_maths.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_sq3clock.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_sq3marathi.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_sq4marathi.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/activity_sq5marathi.xml" value="0.3619791666666667" />
+        <entry key="..\:/Users/Rumit/AndroidStudioProjects/Kids/app/src/main/res/layout/time_out_dialiog.xml" value="0.2572463768115942" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

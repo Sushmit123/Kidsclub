@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.kids">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Kids">
+        <activity
+            android:name=".sq5marathi"
+            android:exported="false" />
+        <activity
+            android:name=".sq4marathi"
+            android:exported="false" />
+        <activity
+            android:name=".sq3marathi"
+            android:exported="false" />
+        <activity
+            android:name=".sq2marathi"
+            android:exported="false" />
+        <activity
+            android:name=".Smarathi"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity
+            android:name=".login"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SQ3clock"
+            android:exported="false" />
+        <activity
+            android:name=".S2clock"
+            android:exported="false" />
+        <activity
+            android:name=".Sclock"
+            android:exported="false" />
+        <activity
+            android:name=".FQ3food"
+            android:exported="false" />
+        <activity
+            android:name=".FQ2food"
+            android:exported="false" />
+        <activity
+            android:name=".Ffood"
+            android:exported="false" />
+        <activity
+            android:name=".FQ4evs"
+            android:exported="false" />
+        <activity
+            android:name=".FQ3evs"
+            android:exported="false" />
+        <activity
+            android:name=".FQ2evs"
+            android:exported="false" />
+        <activity
+            android:name=".Fevs"
+            android:exported="false" />
+        <activity
+            android:name=".JkgQ4Vehicle"
+            android:exported="false" />
+        <activity
+            android:name=".JkgQ3Vehicle"
+            android:exported="false" />
+        <activity
+            android:name=".JkgQ2Vehicle"
+            android:exported="false" />
+        <activity
+            android:name=".JkgVehicle"
+            android:exported="false" />
+        <activity
+            android:name=".SQ3Maths"
+            android:exported="false" />
+        <activity
+            android:name=".SQ2Maths"
+            android:exported="false" />
+        <activity
+            android:name=".SMaths"
+            android:exported="false" />
+        <activity
+            android:name=".SecondStd"
+            android:exported="false" />
+        <activity
+            android:name=".FirstStd"
+            android:exported="false" />
+        <activity
+            android:name=".Finish"
+            android:exported="false" />
+        <activity
+            android:name=".FQ3Maths"
+            android:exported="false" />
+        <activity
+            android:name=".FQ2Maths"
+            android:exported="false" />
+        <activity
+            android:name=".FMaths"
+            android:exported="false" />
+        <activity
+            android:name=".SkgQ4Bpart"
+            android:exported="false" />
+        <activity
+            android:name=".SkgQ3Bpart"
+            android:exported="false" />
+        <activity
+            android:name=".SkgQ2Bpart"
+            android:exported="false" />
+        <activity
+            android:name=".SkgBpart"
+            android:exported="false" />
+        <activity
+            android:name=".SkgQ4Maths"
+            android:exported="false" />
+        <activity
+            android:name=".SkgQ3Maths"
+            android:exported="false" />
+        <activity
+            android:name=".SkgQ2Maths"
+            android:exported="false" />
+        <activity
+            android:name=".SkgMaths"
+            android:exported="false" />
+        <activity
+            android:name=".SkgQ4English"
+            android:exported="false" />
+        <activity
+            android:name=".SkgQ3English"
+            android:exported="false" />
+        <activity
+            android:name=".SkgQ2English"
+            android:exported="false" />
+        <activity
+            android:name=".SKgEnglish"
+            android:exported="false" />
+        <activity
+            android:name=".SerniorKg"
+            android:exported="false" />
+        <activity
+            android:name=".JkgQ4Color"
+            android:exported="false" />
+        <activity
+            android:name=".JkgQ3Color"
+            android:exported="false" />
+        <activity
+            android:name=".JkgQ2Color"
+            android:exported="false" />
+        <activity
+            android:name=".JkgColor"
+            android:exported="false" />
+        <activity
+            android:name=".JkgQ4Maths"
+            android:exported="false" />
+        <activity
+            android:name=".JkgQ3Maths"
+            android:exported="false" />
+        <activity
+            android:name=".JkgQ2Maths"
+            android:exported="false" />
+        <activity
+            android:name=".JkgMaths"
+            android:exported="false" />
+        <activity
+            android:name=".jkgQ4Alphabet"
+            android:exported="false" />
+        <activity
+            android:name=".JkgQ3Alphabet"
+            android:exported="false" />
+        <activity
+            android:name=".JkgQ2Alphabet"
+            android:exported="false" />
+        <activity
+            android:name=".JkgAlphabetQ"
+            android:exported="false" />
+        <activity
+            android:name=".JkgAlphabet"
+            android:exported="false" />
+        <activity
+            android:name=".JkgdashboardActivity"
+            android:exported="false" />
+        <activity
+            android:name=".JuniorKg"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+    </application>
+
+</manifest>

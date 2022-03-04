@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/abc"
+    android:layout_gravity="center"
+    tools:context=".Finish">
+
+    <ImageView
+        android:id="@+id/congratulation"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="10dp"
+        android:adjustViewBounds="true"
+        android:src="@drawable/congratulations" />
+
+    <TextView
+        android:id="@+id/complete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:gravity="center"
+        android:text="You are successfully completed a quiz"
+        android:textColor="@color/black"
+        android:textSize="22dp"
+        android:textStyle="italic"
+        android:layout_below="@+id/congratulation" />
+
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/complete"
+        android:layout_marginTop="53dp"
+        android:backgroundTint="@color/purple_200"
+        android:gravity="center"
+        android:text="Go For Next Quiz"
+        android:textColor="@color/black" />
+
+
+</RelativeLayout>
